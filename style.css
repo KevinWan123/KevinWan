@@ -107,6 +107,7 @@
   grid-template-columns: 100px;
   grid-row-gap: 10px;
   justify-content: center;
+  margin-top: 10%;
 
 }
 
@@ -129,4 +130,38 @@
 
 .DLPSum{
   width: 400px;
+}
+.DLPVideo{
+  display:grid;
+  grid-template-columns: 100px;
+  grid-row-gap: 10px;
+  justify-content: center;
+  margin-top: 5%;
+
+
+}
+
+.GUI{
+  float: right;
+  width: 200px;
+  margin-left: 25%;
+}
+.GUITITLE{
+  float: left;
+  margin-left: 25%;
+
+}
+.content{
+  float:left;
+  width: 40vw;
+}
+.GUIDATE{
+  float:left;
+  margin-left:25%;
+
+}
+.VIDEO{
+  padding-left: 50px;
+
+  min-width: 200px;
 }
